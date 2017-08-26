@@ -1,0 +1,41 @@
+
+        <div class="container">
+        <div class="row">
+        <div class="col-sm-4">
+            <div class="about-heading">
+              <h4 class="subheading">Register</h4>
+              </div>
+             <form action="teacher_registration.php" method="POST" >	
+                    <div class="form-group">                   
+                              <input class="form-control" name="username" placeholder="Username"  type="text" /> 
+                                 <span style="display:none;font-weight:bold; position:absolute;color: red;position: absolute;padding:4px;font-size: 11px;background-color:rgba(128, 128, 128, 0.26);z-index: 17;  right: 27px; top: 5px;" id="span_loginid"></span> 
+                              <span class="glyphicon glyphicon-user form-control-feedback"></span>
+                      </div>
+                          
+                          <div class="form-group">               
+                              <input class="form-control" name="email" placeholder="Email"  type="text" /> 
+                                <span style="display:none;font-weight:bold; position:absolute;color: red;position: absolute;padding:4px;font-size: 11px;background-color:rgba(128, 128, 128, 0.26);z-index: 17;  right: 27px; top: 5px;" id="span_loginid"></span>
+                              <span class="glyphicon glyphicon-user form-control-feedback"></span>
+                          </div>
+                          
+                          <div class="form-group">
+                              <input class="form-control" name="password" placeholder="Password"  type="password" />
+                                <span style="display:none;font-weight:bold; position:absolute;color: grey;position: absolute;padding:4px;font-size: 11px;background-color:rgba(128, 128, 128, 0.26);z-index: 17;  right: 27px; top: 5px;" id="span_loginpsw"></span>
+                              <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+                          </div>
+                          
+                          <div class="form-group">
+                              <input class="form-control" name="repassword" placeholder="Confirm Password"  type="password" />
+                                <span style="display:none;font-weight:bold; position:absolute;color: grey;position: absolute;padding:4px;font-size: 11px;background-color:rgba(128, 128, 128, 0.26);z-index: 17;  right: 27px; top: 5px;" id="span_loginpsw"></span>
+                              <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+                          </div>
+                          <p><input type="checkbox" checked="unchecked"> Remember me
+                            <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+
+                          
+                            <input type="submit" name="submit" id="submit" value="Register" button type="button" class="btn btn-primary btn-block btn-flat">
+                          
+            </form>
+        </div>
+    </div>
+</div>
