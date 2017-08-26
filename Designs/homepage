@@ -1,0 +1,321 @@
+ <div class="container">
+        <h2 align="center">Top Products</h2>
+        <ul align="center" class="nav nav-pills">
+            <li class="active"><a data-toggle="pill" href="#home">Men</a></li>
+            <li><a data-toggle="pill" href="#menu1">Women</a></li>
+            <li><a data-toggle="pill" href="#menu2">Accessories</a></li>
+            <li><a data-toggle="pill" href="#menu3">Footwear</a></li>
+        </ul>
+        <div class="tab-content">
+            <div id="home" class="tab-pane fade in active">
+
+                <br>
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-sm-3">
+                            <img src="shirt1.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Formal Shirt</h6>
+                                <h6 align="center">$40</h6>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <img src="shirt2.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Casual Shirt</h6>
+                                <h6 align="center">$60</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="shirt3.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Casual Shirt</h6>
+                                <h6 align="center">$35</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="shirt4.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Formal Shirt</h6>
+                                <h6 align="center">$50</h6>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="row">
+
+                        <div class="col-sm-3">
+                            <img src="blazer1.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Formal Blazer</h6>
+                                <h6 align="center">$100</h6>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <img src="shirt5.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Casual Shirt</h6>
+                                <h6 align="center">$60</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="blazer2.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Casual Blazer</h6>
+                                <h6 align="center">$75</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="vest2.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">vest</h6>
+                                <h6 align="center">$20</h6>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div id="menu1" class="tab-pane fade">
+
+                <br>
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-sm-3">
+                            <img src="wp3.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Dress</h6>
+                                <h6 align="center">$40</h6>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <img src="wp4.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Dress</h6>
+                                <h6 align="center">$60</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="wp5.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Dress</h6>
+                                <h6 align="center">$35</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="wp8.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Dress</h6>
+                                <h6 align="center">$50</h6>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div id="menu2" class="tab-pane fade">
+                <br>
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-sm-3">
+                            <img src="rb.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Ray bans</h6>
+                                <h6 align="center">$4</h6>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <img src="scarf.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Scarf</h6>
+                                <h6 align="center">$3</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="watch1.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Watch</h6>
+                                <h6 align="center">$35</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="socks.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Socks</h6>
+                                <h6 align="center">$1</h6>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div id="menu3" class="tab-pane fade">
+                <br>
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-sm-3">
+                            <img src="shoe4.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Formal Shoe</h6>
+                                <h6 align="center">$40</h6>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-3">
+                            <img src="shoe6.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Casual Shoe</h6>
+                                <h6 align="center">$60</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="shoe7.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Casual Shoe</h6>
+                                <h6 align="center">$35</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3">
+                            <img src="heel.jpg" class="img-thumbnail" alt="">
+                            <div class="caption">
+                                <h6 align="center">Women's heels</h6>
+                                <h6 align="center">$50</h6>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+        <section id="sign up">
+            <div class="container">
+                <div class="row">
+                    <div class=" col-offset-sm-2 col-sm-5">
+                        <div class="about-heading">
+                            <h2 class="subheading">Our Services</h2>
+                        </div>
+                        <p>
+                            <table class="table">
+
+                                <tr>
+                                    <td>
+                                        <p><span class="fa-stack fa-2x">
+                                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                         <i class="fa fa-time fa-stack-1x fa-inverse"></i>
+                                     </span></td>
+                                    <td>
+                                        <h5 class="subheading">24/7 free online support</h5>
+                                        <br>Get round the clock personalised help</td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <p><span class="fa-stack fa-2x">
+                                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                         <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                                     </span></td>
+                                    <td>
+                                        <h5 class="subheading">Affordable shipping rates</h5>
+                                        <br>we have affordable shipping rates to meet your needs</td>
+                                </tr>
+
+
+                                <tr>
+                                    <td>
+                                        <p><span class="fa-stack fa-2x">
+                                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                         <i class="fa fa-money fa-stack-1x fa-inverse"></i>
+                                     </span></td>
+                                    <td>
+                                        <h5 class="subheading">100% money back</h5>
+                                        <br>Get 100% of your money if shipping does not reach you</td>
+                                </tr>
+                                </td>
+                                </tr>
+                            </table>
+
+                    </div>
+                    <div class="col-sm-2">
+
+                    </div>
+
+                    <div class="col-sm-5">
+                        <img src="fs.png" alt="">
+                        <br> <img src="fs1.jpg" alt="">
+
+                    </div>
+
+                    <br>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 text-center">
+                                <h2 class="section-heading">Top Brands</h2>
+                                <hr />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-2">
+                                <img src="raybans.png" alt="">
+                            </div>
+                            <div class="col-sm-2">
+                                <img src="ck.png" alt="">
+                            </div>
+                            <div class="col-sm-2">
+                                <img src="boss.png" alt="">
+                            </div>
+                            <div class="col-sm-2">
+                                <img src="dior.png" alt="">
+                            </div>
+                            <div class="col-sm-2">
+                                <img src="channel.png" alt="">
+                            </div>
+                            <div class="col-sm-2">
+                                <img src="elegant.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+        </section>
