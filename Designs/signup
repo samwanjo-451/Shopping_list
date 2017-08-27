@@ -7,7 +7,7 @@
               </div>
              <form action="teacher_registration.php" method="POST" >	
                     <div class="form-group">                   
-                              <input class="form-control" name="username" placeholder="Username"  type="text" /> 
+                              <input class="form-control" name="username" placeholder="Username"  type="text" > 
                                  <span style="display:none;font-weight:bold; position:absolute;color: red;position: absolute;padding:4px;font-size: 11px;background-color:rgba(128, 128, 128, 0.26);z-index: 17;  right: 27px; top: 5px;" id="span_loginid"></span> 
                               <span class="glyphicon glyphicon-user form-control-feedback"></span>
                       </div>
